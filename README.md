@@ -10,7 +10,7 @@ First things first, this repository is meant for students, parents, and faculty 
 
 In this repo you will find all the materials needed for the class. Feel free to familiarize yourself with python and GitHub! 
 
-Once you pull the code you want to study, feel free to do with it as you please. Experiment with it, break it, and rebuild it. You may also set your own repository to public to showcase your creations! 
+Once you fork the code you want to study, feel free to do with it as you please. Experiment with it, break it, and rebuild it. You may also set your own repository to public and showcase your creations! 
 
 Some students have expressed interest in creating code outside of the classroom. I recommend just a normal installation of Python to get started. 
 Here is the link to download Python on your own machine:
