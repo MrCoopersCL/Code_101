@@ -40,4 +40,13 @@ I have added the following from Google Drive to the repository:
 
 To help organise the repo, I will be dividing files into differing complexity levels. These will be basic, intermediate, complex.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Date: 10/27/2022
 
+Subject: Game Logic
+
+Class: Coding 101
+
+Added the first game logic example to the intermediate file. The student should understand if statements, input function, and f strings before using this file. 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
