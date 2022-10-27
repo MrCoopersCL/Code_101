@@ -26,7 +26,7 @@ Decisions:
 decision_1 = input('What is thy decision?')
 
 if decision_1 == '1':
-    print('You run away like a little baby. Everyone laughs and you cry. Great job!')
+    print('You run away like a little baby. Everyone laughs and you cry. Nice!')
 elif decision_1 == '2':
     print('You look through your spyglass and see the bone gore monger feasting upon raw human flesh.')
 elif decision_1 == '3':
