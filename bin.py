@@ -1,5 +1,11 @@
-#COnvert the number 68 to binary code.
+#Topic: Functions 
+#A function is a strategy decreasing repetition in code. 
+
+#Convert the number 68 to binary code.
+#A functions syntax starts with def 
 def bin_fun():
+    #^Then the function is named with parenthesis. 
+    #^The colon tells the function to start a new block of code. 
     x = int(input('Please enter a number: '))
     return (bin(x))
 
