@@ -29,14 +29,23 @@ Subject: Added code from Google drive to this repo.
 Class: Coding 101
 
 I have added the following from Google Drive to the repository:
+
 1.) comments.py
+
 2.) hello_world.py
+
 3.) ASCII.py
+
 4.) bin.py
+
 5.) f_strings.py
+
 6.) get_some_input.py
+
 7.) elif_Decision_.py
+
 8.) for_loop.py
+
 
 To help organise the repo, I will be dividing files into differing complexity levels. These will be basic, intermediate, complex.
 
