@@ -1,7 +1,9 @@
 # Code_101
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Date: 10/26/2022
+
 Subject: Welcome Letter
+
 Class: Coding 101
 
 Hello and Welcome to the Official Computer Lab Github repository for coding 101!
